@@ -9,7 +9,7 @@ function setup() {
   walker = new Walker(100, 100);
 
 
-  background(127);
+  background(200);
 }
 
 function draw() {
